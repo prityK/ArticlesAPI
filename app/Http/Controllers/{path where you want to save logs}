@@ -1,0 +1,6 @@
+[23056] Log opened at 2025-02-04 12:00:35.677260
+[23056] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:0.
+[23056] [Step Debug] WARN: Creating socket for '127.0.0.1:0', connect: 10049.
+[23056] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:0 (through xdebug.client_host/xdebug.client_port).
+[23056] Log closed at 2025-02-04 12:00:35.681024
+
